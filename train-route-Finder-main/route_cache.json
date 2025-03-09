@@ -1,0 +1,26 @@
+[
+  {
+    "origin": "NDLS",
+    "destination": "CPR",
+    "intermediate": "CNB",
+    "success_count": 2
+  },
+  {
+    "origin": "NDLS",
+    "destination": "CPR",
+    "intermediate": "GKP",
+    "success_count": 2
+  },
+  {
+    "origin": "NDLS",
+    "destination": "HWH",
+    "intermediate": "MMCT",
+    "success_count": 2
+  },
+  {
+    "origin": "NDLS",
+    "destination": "CPR",
+    "intermediate": "MMCT",
+    "success_count": 2
+  }
+]

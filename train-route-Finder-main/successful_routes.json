@@ -1,0 +1,68 @@
+[
+  {
+    "origin": "NDLS",
+    "destination": "CPR",
+    "intermediate": "CNB",
+    "success_count": 1
+  },
+  {
+    "origin": "NDLS",
+    "destination": "CPR",
+    "intermediate": "GKP",
+    "success_count": 1
+  },
+  {
+    "origin": "NDLS",
+    "destination": "HWH",
+    "intermediate": "MMCT",
+    "success_count": 1
+  },
+  {
+    "origin": "NDLS",
+    "destination": "CPR",
+    "intermediate": "MB",
+    "success_count": 2
+  },
+  {
+    "origin": "BE",
+    "destination": "SBC",
+    "intermediate": "NDLS",
+    "success_count": 1
+  },
+  {
+    "origin": "HYB",
+    "destination": "GWL",
+    "intermediate": "SBC",
+    "success_count": 1
+  },
+  {
+    "origin": "BPL",
+    "destination": "ADI",
+    "intermediate": "NDLS",
+    "success_count": 1
+  },
+  {
+    "origin": "BE",
+    "destination": "DDN",
+    "intermediate": "NDLS",
+    "success_count": 1
+  },
+  {
+    "origin": "UDZ",
+    "destination": "PRYJ",
+    "intermediate": "AGC",
+    "success_count": 1
+  },
+  {
+    "origin": "UDZ",
+    "destination": "PRYJ",
+    "intermediate": "VGLJ",
+    "success_count": 1
+  },
+  {
+    "origin": "GZB",
+    "destination": "MMCT",
+    "intermediate": "NZM",
+    "success_count": 1
+  }
+]

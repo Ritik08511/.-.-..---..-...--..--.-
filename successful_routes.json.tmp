@@ -1,0 +1,30 @@
+[
+  {
+    "origin": "NDLS",
+    "destination": "CPR",
+    "intermediate": "CNB",
+    "success_count": 2
+  },
+  {
+    "origin": "NDLS",
+    "destination": "CPR",
+    "intermediate": "GKP",
+    "success_count": 1
+  },
+  {
+    "origin": "NDLS",
+    "destination": "HWH",
+    "intermediate": "MMCT",
+    "success_count": 3
+  },
+  {
+    "timestamp": "2025-03-08T10:13:27.028582",
+    "origin": "NDLS_NewDelhi",
+    "destination": "PNBE_Patna",
+    "intermediate": null,
+    "segments": [
+      {
+        "train_number": " (20802",
+        "from_station": "NDLS_NewDelhi",
+        "to_station": "PNBE_Patna",
+        "departure_time": 

@@ -1,0 +1,18 @@
+runtime: custom
+env: flex
+manual_scaling:
+  instances: 1
+resources:
+  cpu: 4
+  memory_gb: 8
+  disk_size_gb: 10
+readiness_check:
+  path: "/health"  # Use our new health check endpoint
+  app_start_timeout_sec: 1800
+liveness_check:
+  path: "/health"  # Use our new health check endpoint
+  check_interval_sec: 30
+  timeout_sec: 20
+  failure_threshold: 2
+  success_threshold: 2
+entrypoint: gunicorn --timeout 900 --workers 1 --threads 4 app:app
